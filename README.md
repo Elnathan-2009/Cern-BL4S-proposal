@@ -8,8 +8,8 @@ Official research proposal submitted to the CERN Beamline for Schools (BL4S) com
 This project investigates secondary particle-beam dynamics and energy-deposition profiles using lead/scintillator sampling calorimeters to evaluate electromagnetic shower universality.
 
 # Contents
-- `CERN_BL4S_Proposal_2026.pdf` — Full scientific paper and proposal submission.
-- `main.tex` — Complete LaTeX source code and structural layout.
+- `BL4S_2026_Final.pdf` — Full scientific paper and proposal submission.
+- `BL4S_2026_Final.tex` — Complete LaTeX source code and structural layout.
 
 # Documentation Lead & LaTeX Specialist
 Elnathan Shawel
